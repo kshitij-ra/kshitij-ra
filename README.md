@@ -16,8 +16,8 @@
 - 🎓 I'm a Computer Science and Engineering student at VIT Vellore.
 - 📚 I'm currently learning about: ***Python, Animations CSS, SASS, JavaScript***.
 - 🎯 I plan to learn in the future: ***Java, Vue.js, React and TypeScript***.
+- 👀 My areas of interest are:  ***Web Development, Deep Learning, ,Machine Vision, Cloud Computing***.
 - ⚡ I'm the Tech Lead at GuidanceGuru.
-- 👀 My areas of interest are:  ***Web Development, Deep Learning, Cloud Computing***.
 
 
 
