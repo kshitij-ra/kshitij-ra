@@ -15,7 +15,7 @@
 
 - 🎓 I'm a Computer Science and Engineering student at VIT Vellore.
 - 📚 I'm currently learning about: ***ML, Android App Development, Flutter, Python***.
-- 🎯 I plan to learn in the future: ***Vue.js, React and TypeScript***.
+- 🎯 I plan to learn in the future: ***React and JavaScript***.
 - 👀 My areas of interest are:  ***Web Development, Deep Learning ,Machine Vision, App Dev***.
 - 📚 You can reach out to me if you want to collab on projects involving C++, Java, Web Dev, Flutter, ML.
 - ⚡ I'm the Tech Lead at GuidanceGuru.
