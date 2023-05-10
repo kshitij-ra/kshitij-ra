@@ -8,7 +8,6 @@
 
 <br>
 <br>
-<p align="center">
 
 ---
 
@@ -24,9 +23,8 @@
 
 <br>
 <br>
-
 <h2 align="center"> 📫 Feel free to connect with me on:</h2>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/kshitij-radotra" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://twitter.com/kradotra" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <a href="https://discordapp.com/users/721749901670613012" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
