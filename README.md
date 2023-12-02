@@ -1,15 +1,13 @@
 <h2 align="center"> Hi!! 👋, i'm Kshitij<br/> </h2> 
-<p align="center"> A <b>Student / Web Developer / Software Developer & Designer</b>.</p>
-
+<p align="center"> A <b>Student / App Developer</b>.</p>
 <br>
 
-<p align="center">Check my portfolio website for more info 😊 :
-<br> 👉  <a href="insert link">insert link</a>.</p>
+<p align="center">Learn more about me :
+<br> 👉  <a href="https://drive.google.com/file/d/1bVYji9RXrToZoUU14x3JY_7UrbPzRhZk/view?usp=drive_link">My Resume</a>.</p>
 
 <br>
 <br>
 
----
 
 
 - 🎓 I'm a Computer Science and Engineering student at VIT Vellore.
