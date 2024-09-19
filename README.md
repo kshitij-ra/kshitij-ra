@@ -3,7 +3,9 @@
 <br>
 
 <p align="center">Learn more about me :
-<br> 👉  <a href="https://drive.google.com/file/d/1bVYji9RXrToZoUU14x3JY_7UrbPzRhZk/view?usp=drive_link">My Resume</a>.</p>
+<br> 👉  <a href="www.kshitij.tech/resume">My Resume</a>.
+<br> 👉  <a href="www.kshitij.tech">Portfolio Website</a>.
+</p>
 
 <br>
 <br>
